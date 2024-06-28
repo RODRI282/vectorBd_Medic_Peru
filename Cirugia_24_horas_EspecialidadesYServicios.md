@@ -1,236 +1,188 @@
+**Specialties and Services:**
 
-Especialidades y Servicios:
-CirugíaGeneral:
-Contamosconespecialistas,CirujanosAbdominalesyLaparoscópicos,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-LaCirugíaGeneralydelAparatoDigestivoeslaespecialidadmédicaqueseocupadelaprevención,diagnósticoytratamientoquirúrgicodelasenfermedadesqueafectanacualquierpartedelaparatodigestivo,retroperitoneo,sistemaendocrino,mama,paredabdominal,pielypartesblandas.
+**General Surgery:**
+We have specialists, abdominal and laparoscopic surgeons, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+General Surgery and Digestive System Surgery is the medical specialty that deals with the prevention, diagnosis, and surgical treatment of diseases affecting any part of the digestive system, retroperitoneum, endocrine system, breast, abdominal wall, skin, and soft tissues.
 
-CirugíaGeneral
-CirugíadeDiástasisdeRecto
+**General Surgery**  
+Rectus Diastasis Surgery  
 S/4,500.00
 
-CirugíaGeneral
-CirugíaLaparoscópicadeApéndice
+**General Surgery**  
+Laparoscopic Appendix Surgery  
 S/4,000.00
 
-CirugíaGeneral
-CirugíadeHerniaInguinalLaparoscópica
+**General Surgery**  
+Laparoscopic Inguinal Hernia Surgery  
 S/3,500.00
 
-CirugíaGeneral
-CirugíadeHerniaInguinalConvencional(ConCorte)
+**General Surgery**  
+Conventional Inguinal Hernia Surgery (With Incision)  
 S/2,500.00
 
-CirugíaGeneral
-CirugíaLaparoscópicadeQuisteHidatídicoHepático
+**General Surgery**  
+Laparoscopic Surgery for Hepatic Hydatid Cyst  
 S/5,000.00
 
-CirugíaGeneral
-CirugíaLaparoscópicadeHerniaHiatal
+**General Surgery**  
+Laparoscopic Hiatal Hernia Surgery  
 S/6,000.00
 
-CirugíaGeneral
-5.00outof5basedon1customerrating
-CirugíadeHerniaUmbilical
+**General Surgery**  
+5.00 out of 5 based on 1 customer rating  
+Umbilical Hernia Surgery  
 S/2,500.00
 
-CirugíaGeneral
-CirugíadeHerniaEpigástrica
+**General Surgery**  
+Epigastric Hernia Surgery  
 S/2,500.00
 
-Vistarápida
-CirugíaGeneral
-5.00outof5basedon1customerrating
-CirugíadeVesículaLaparoscopica
+**Quick View**  
+**General Surgery**  
+5.00 out of 5 based on 1 customer rating  
+Laparoscopic Gallbladder Surgery  
 S/2,300.00
 
-Gastroenterología:
-Contamosconespecialistas,CirujanosGastroenterólogoyEndoscopiaAvanzada,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-LaCirugíaGeneralydelAparatoDigestivoeslaespecialidadmédicaqueseocupadelaprevención,diagnósticoytratamientoquirúrgicodelasenfermedadesqueafectanacualquierpartedelaparatodigestivo,retroperitoneo,sistemaendocrino,mama,paredabdominal,pielypartesblandas.
+**Gastroenterology:**
+We have specialists, gastroenterological surgeons, and advanced endoscopy experts, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+Gastroenterology and Digestive System Surgery is the medical specialty that deals with the prevention, diagnosis, and surgical treatment of diseases affecting any part of the digestive system, retroperitoneum, endocrine system, breast, abdominal wall, skin, and soft tissues.
 
-Vistarápida
-Gastroenterología
-5.00outof5basedon1customerrating
-Cpre–CálculosBiliares
+**Quick View**  
+**Gastroenterology**  
+5.00 out of 5 based on 1 customer rating  
+ERCP – Gallstones  
 S/3,000.00
 
-CirugíaBariátrica:
-Contamosconespecialistas,CirujanosAbdominalesyLaparoscópicos,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-Lacirugíabariátrica(pérdidadepeso)eslaúnicaopciónenlaactualidadquetratademaneraeficazlaobesidadmórbidaenpersonasparaquienesmedidasmásconservadorascomoladieta,elejercicioyelmedicamentohanfracasado.Lacirugíabariátricatambiéncontribuyedemaneraimportantearesolvercomorbilidadesyamejorarlacalidaddevida.Sehademostradoquetrasunacirugíabariátricaexitosa,lospacientesobtienenbeneficioscomoreduccióndelaglucemiaylapresiónarterial,reducciónoeliminacióndelaapneadelsueño,reduccióndelacargadetrabajodelcorazónydelosnivelesdecolesterol.
+**Bariatric Surgery:**
+We have specialists, abdominal and laparoscopic surgeons, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+Bariatric surgery (weight loss) is currently the only effective option for treating morbid obesity in people for whom more conservative measures such as diet, exercise, and medication have failed. Bariatric surgery also significantly contributes to resolving comorbidities and improving quality of life. It has been shown that after successful bariatric surgery, patients obtain benefits such as reduced blood sugar levels and blood pressure, reduction or elimination of sleep apnea, reduced workload on the heart, and lower cholesterol levels.
 
-CirugíaBariátrica
-BalónGástrico
+**Bariatric Surgery**  
+Gastric Balloon  
 S/8,500.00
 
-CirugíaBariátrica
-CirugíadeBypassGástrico
+**Bariatric Surgery**  
+Gastric Bypass Surgery  
 S/11,500.00
 
-Vistarápida
-CirugíaBariátrica
-CirugíadeMangaGástrica
+**Quick View**  
+**Bariatric Surgery**  
+Gastric Sleeve Surgery  
 S/8,500.00
 
-Urología:
-Contamosconespecialistas,CirujanosUrólogos,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-Laurologíaeslaespecialidadmédico-quirúrgicaqueseocupadelestudio,diagnósticoytratamientodelaspatologíasqueafectanalaparatourinario,glándulassuprarrenalesyretroperitoneodelhombre,asícomoelaparatoreproductormasculino.
+**Urology:**
+We have specialists, urological surgeons, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+Urology is the medical-surgical specialty that deals with the study, diagnosis, and treatment of pathologies affecting the urinary system, adrenal glands, and retroperitoneum in men, as well as the male reproductive system.
 
-Urología
-VerrugasGenitalesHombres
+**Urology**  
+Genital Warts (Men)  
 S/200.00–S/700.00
 
-Urología
-Vasectomía
+**Urology**  
+Vasectomy  
 S/2,200.00–S/2,700.00
 
-Urología
-CirugíadeVaricocele
+**Urology**  
+Varicocele Surgery  
 S/2,200.00–S/2,700.00
 
-Urología
-CirugíadePróstata
+**Urology**  
+Prostate Surgery  
 S/3,700.00–S/8,800.00
 
-
-
-
-Urología
-CirugíadeCálculoRenal
+**Urology**  
+Kidney Stone Surgery  
 S/6,000.00–S/6,500.00
 
-
-
-
-Urología
-CircuncisiónenAdultos
+**Urology**  
+Adult Circumcision  
 S/2,200.00–S/2,700.00
 
-
-
-Vistarápida
-Urología
-CirugíadeHidrocele
+**Quick View**  
+**Urology**  
+Hydrocele Surgery  
 S/2,200.00–S/2,700.00
 
-Ginecología:
-Contamosconespecialistas,CirujanosGinecologicos,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-Ginecología(delgriegoγυναίκαgynaika“mujer”)quesignificaliteralmentecienciadelamujeryenmedicinahacereferenciaalaespecialidadmédicayquirúrgicaqueestudiaelsistemareproductorfemenino(útero,vaginayovarios).Ademásexiste,enrelaciónconloexpuestoantes,laespecialidaddeobstetricia,atalpuntoquecasitodoslosginecólogosmodernossontambiénmédicosobstetras.
+**Gynecology:**
+We have specialists, gynecological surgeons, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+Gynecology (from Greek γυναίκα gynaika "woman") literally means the science of women and in medicine refers to the medical and surgical specialty that studies the female reproductive system (uterus, vagina, and ovaries). In addition, there is the related specialty of obstetrics, to the point that almost all modern gynecologists are also obstetricians.
 
-
-
-Ginecología
-QuistectomíaConvencional
+**Gynecology**  
+Conventional Cystectomy  
 S/3,000.00
 
-
-
-
-
-Ginecología
-LegradoGinecológico
+**Gynecology**  
+Gynecological Curettage  
 S/2,500.00
 
-
-
-
-
-Ginecología
-CirugíadeParto
+**Gynecology**  
+Childbirth Surgery  
 S/2,500.00–S/4,000.00
 
-
-
-
-Ginecología
-CirugíadeEmbarazoEctópico
+**Gynecology**  
+Ectopic Pregnancy Surgery  
 S/4,000.00–S/5,000.00
 
-
-
-
-Ginecología
-CirugíadeProlapso
+**Gynecology**  
+Prolapse Surgery  
 S/4,500.00
 
-
-
-
-Ginecología
-CauterizacióndeVerrugasGenitales(Mujeres)
+**Gynecology**  
+Cauterization of Genital Warts (Women)  
 S/250.00
 
-
-
-
-
-Ginecología
-QuistectomíaLaparoscópica
+**Gynecology**  
+Laparoscopic Cystectomy  
 S/4,000.00
 
-
-
-
-Vistarápida
-Ginecología
-MiomaUterino
+**Quick View**  
+**Gynecology**  
+Uterine Fibroid  
 S/3,500.00
 
-Traumatología:
-Contamosconespecialistas,CirujanosTraumatologos,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-Eslaramadelamedicinaquesededicaalestudiodelaslesionesdelaparatolocomotor.Laespecialidadesmédico-quirúrgica,ylosmédicosquelapracticansellamantraumatólogosocirujanosortopédicos.Suámbitoseextiendemásalládelcampodelaslesionestraumáticas;abarcaelestudiodelasenfermedadescongénitasoadquiridasqueafectanalaparatolocomotor,especialmentedeaquellasqueprecisantratamientoconcirugía,prótesisuortesis.
+**Traumatology:**
+We have specialists, traumatology surgeons, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+It is the branch of medicine dedicated to the study of injuries to the musculoskeletal system. The specialty is medical-surgical, and the doctors who practice it are called traumatologists or orthopedic surgeons. Their scope extends beyond the field of traumatic injuries; it encompasses the study of congenital or acquired diseases affecting the musculoskeletal system, especially those requiring treatment with surgery, prostheses, or orthotics.
 
-
-
-Traumatología
-PrótesisdeCadera
+**Traumatology**  
+Hip Prosthesis  
 S/11,000.00–S/18,500.00
 
-
-
-
-Traumatología
-CirugíadeFractura
+**Traumatology**  
+Fracture Surgery  
 S/4,000.00–S/10,500.00
 
-
-
-
-Traumatología
-CirugíadeArtroscopia
+**Traumatology**  
+Arthroscopy Surgery  
 S/5,000.00–S/8,500.00
 
-
-
-
-Traumatología
-PrótesisdeRodilla
+**Traumatology**  
+Knee Prosthesis  
 S/15,000.00–S/15,500.00
 
-
-
-Vistarápida
-Traumatología
-CirugíadeTúneldelCarpo
+**Quick View**  
+**Traumatology**  
+Carpal Tunnel Surgery  
 S/4,000.00–S/4,500.00
 
-CabezayCuello:
-Contamosconespecialistas,CirujanosMaxiloFaciales,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-Estaespecialidadincluyeeldiagnósticoytratamientomédico,quirúrgicoyreconstructivodelasenfermedades,traumatismosydefectosquecomprometenaspectosfuncionalesy/otejidosdelaregióndelacabeza,carayelcuello.
+**Head and Neck:**
+We have specialists, maxillofacial surgeons, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+This specialty includes the diagnosis and medical, surgical, and reconstructive treatment of diseases, injuries, and defects that compromise functional aspects and/or tissues of the head, face, and neck region.
 
-
-Vistarápida
-CabezayCuello
-CirugíadeTiroides
+**Quick View**  
+**Head and Neck**  
+Thyroid Surgery  
 S/3,600.00–S/4,100.00
 
-Oncología:
-Contamosconespecialistas,CirujanosOncólogos,quellevanacabolasintervencionescontotalseguridadgraciasasusmásde15añosdeexperienciaenoperacionesdeestetipo.
-LaCirugíaGeneralydelAparatoDigestivoeslaespecialidadmédicaqueseocupadelaprevención,diagnósticoytratamientoquirúrgicodelasenfermedadesqueafectanacualquierpartedelaparatodigestivo,retroperitoneo,sistemaendocrino,mama,paredabdominal,pielypartesblandas.
+**Oncology:**
+We have specialists, oncological surgeons, who carry out interventions with total safety thanks to their more than 15 years of experience in such operations.
+General Surgery and Digestive System Surgery is the medical specialty that deals with the prevention, diagnosis, and surgical treatment of diseases affecting any part of the digestive system, retroperitoneum, endocrine system, breast, abdominal wall, skin, and soft tissues.
 
-Oncología
-CirugíadePielyPartesBlandas
+**Oncology**  
+Skin and Soft Tissue Surgery  
 S/500.00–S/5,500.00
 
-Vistarápida
-Oncología
-CirugíadeMamas
+**Quick View**  
+**Oncology**  
+Breast Surgery  
 S/1,100.00–S/10,500.00

@@ -1,26 +1,29 @@
-Conozca a Nuestros Especialistas
-Dr: Doctor, Dra: Doctora
-Los mejores cirujanos especialistas con equipo está formado por profesionales expertos en el sector sanitario, lo que garantiza la excelencia en el servicio, la atención personalizada y la seguridad médica.
-Dra. Milagros Quinto:
-Cirujano Abdominal Laparoscópico
+**Meet Our Specialists**
 
-Dr. Javier Peña Crisostomo:
-Cirujano Abdominal Laparoscópico
+Dr: Doctor, Dra: Doctor (female)
 
-Dr. Jorge Mosquera:
-Cirujano Abdominal Laparoscópico
+The best specialist surgeons, with a team formed by professionals who are experts in the healthcare sector, ensuring excellence in service, personalized attention, and medical safety.
 
-Dr. Cesar Álvarez:
-Ginecólogo y Obstetra
+**Dra. Milagros Quinto:**  
+Laparoscopic Abdominal Surgeon
 
-Dr. Boris Villavicencio:
-Cirujano de Cabeza y Cuello
+**Dr. Javier Peña Crisostomo:**  
+Laparoscopic Abdominal Surgeon
 
-Dr. Francis Cervantes:
-Cirujano Traumatólogo
+**Dr. Jorge Mosquera:**  
+Laparoscopic Abdominal Surgeon
 
-Dr. Walter Alvarado:
-Cirujano Traumatólogo
+**Dr. Cesar Álvarez:**  
+Gynecologist and Obstetrician
 
-Dr. Ever Corahua Romero:
-Cirujano Traumatólogo
+**Dr. Boris Villavicencio:**  
+Head and Neck Surgeon
+
+**Dr. Francis Cervantes:**  
+Traumatology Surgeon
+
+**Dr. Walter Alvarado:**  
+Traumatology Surgeon
+
+**Dr. Ever Corahua Romero:**  
+Traumatology Surgeon

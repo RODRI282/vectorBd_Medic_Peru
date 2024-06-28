@@ -1,27 +1,26 @@
+**Available Clinics:**
 
-Clinicas Disponibles:
+**Clínica Santa Lucía**
 
-Clínica Santa Lucía
+Clínica Santa Lucía has over 30 years of experience in the market. They specialize in medium and low complexity surgeries, having successfully performed over thirteen thousand surgeries in the last 10 years. They have highly experienced medical and nursing staff and a team ready to provide the necessary support.
 
-Clínica Santa Lucía cuenta con más de 30 años de experiencia en el mercado. Se especializan en cirugías de mediana y baja complejidad, donde en los últimos 10 años se han realizado más de trece mil cirugías con éxito. Cuenta con personal médico y de enfermería con amplia experiencia y un staff listo para brindarle el soporte necesario.
+**Clínica Monte Sinai**
 
-Clínica Monte Sinai
+Our vision is to become the reference surgical clinic for high-quality procedures at affordable prices in the Latin American market. We aim to democratize access to specialized surgery, ensuring that every individual, regardless of their financial capacity, can benefit from safe and effective surgical treatment.
 
-Convertirnos en la clínica quirúrgica de referencia para procedimientos de alta calidad a precios accesibles en el mercado latinoamericano. Nuestra visión es democratizar el acceso a la cirugía especializada, garantizando que cada individuo, independientemente de su capacidad económica, pueda beneficiarse de un tratamiento quirúrgico seguro y efectivo
+**Clínica San Borja Salud**
 
+Our mission is to provide cutting-edge medical care and exceptional surgical services internationally, offering our patients the highest quality medical attention with warm and personalized care. We strive to improve the health and quality of life of individuals by combining our surgeons' expertise with state-of-the-art technology and a comprehensive approach to patient well-being.
 
-Clínica San Borja Salud
+**Consult with Us!**
 
-Nuestra misión es proporcionar atención médica de vanguardia y servicios quirúrgicos excepcionales a nivel internacional, brindando a nuestros pacientes la más alta calidad de atención médica y un trato cálido y personalizado. Nos esforzamos por mejorar la salud y la calidad de vida de las personas, combinando la experiencia de nuestros cirujanos con tecnología de última generación y un enfoque integral para el bienestar de nuestros pacientes
+We are available online 24 hours a day to provide you with all the information and assistance you need regarding procedures, services, and more.
 
-¡Realiza tu consulta con Nosotros!
-Estamos disponibles en línea las 24 horas para proporcionarte toda la información y asistencia que necesites sobre procedimientos, servicios y más
-
-Teléfono
+**Phone**
 (+51) 922728443
 
-Correo electrónico
+**Email**
 informes@cirugia24horas.com
 
-Ubicación
+**Location**
 Avenida Javier Prado Este 1510, San Isidro - Lima

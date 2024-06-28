@@ -1,67 +1,67 @@
-CirugíaSegura
-24Horas
+**SafeSurgery 24Hours**
 
+**OperateWithoutDelaysOrWaits**  
+CellNumber: 922728443
 
-ÓperateSinDemorasNiEsperas
-NumeroCelular: 922728443
+**Who We Are**  
+Founded in 2013, Cirugía24horas is a highly specialized private medical services company offering comprehensive surgical services with fixed pricing, no waiting, no surprises, and reduced costs. This cost reduction is possible thanks to the high volume of interventions we handle daily, allowing us to offer high-quality surgical services at an adjusted price in numerous specialties.
 
-Quienes Somos
-Fundada en 2013, Cirugía24horas es una compañía de servicios médicos privados altamente especializada en ofrecer servicios quirúrgicos completos, con precio cerrado, sin esperas, sin sorpresas y a coste reducido. Esta reducción de costes es posible gracias al gran volumen de intervenciones que tramitamos diariamente, permitiéndonos ofrecer servicios quirúrgicos de la máxima calidad a un precio ajustado en numerosas especialidades.
+Our team is made up of experts in the healthcare sector, ensuring excellence in service, personalized attention, and medical safety. This excellence is backed by the hundreds of patients we have treated, the thorough selection of our medical staff, and the quality and comfort of our associated hospitals, all supervised by the Medical Health Directorate.
 
-Nuestro equipo está formado por profesionales expertos en el sector sanitario, lo que garantiza la excelencia en el servicio, la atención personalizada y la seguridad médica. Dicha excelencia viene avalada por los cientos de pacientes que hemos atendido, la exhaustiva selección de nuestro cuadro médico y la calidad y comodidad de nuestros hospitales asociados, todo ello supervisado por la Dirección Médica de Salud.
+Therefore, at Cirugía24horas, we are convinced of our mission:
 
-Por todo ello, en Cirugía24horas estamos convencidos de nuestra misión:
+To provide high-quality private medical care with immediate attention, total transparency, and at a reduced and fixed price, paying only when the patient needs it, without fees, without surprises, and without final surprises. Establishing a contract for the provision of medical services and guaranteeing the highest quality of service.
 
-Proporcionar una atención médica privada de alta calidad con atención inmediata, total transparencia y a un precio reducido y cerrado, pagando sólo cuando el paciente lo necesita, sin cuotas, sin desdes y sin sorpresas finales. Estableciendo un contrato de prestación de servicios médicos y garantizando la máxima calidad del servicio.
+"Cirugía24horas, safe surgery in good hands"
 
-“Cirugía24horas, cirugía segura en buenas manos”
+**Why Trust Cirugía 24 Hours**
 
-Por que confiar en Cirugía 24 Horas
-Total Transparencia
-Todos los precios de nuestras operaciones son cerrados y con todo incluido. Sin desdes y sin sorpresas finales. Sabrás el precio final y lo que incluye el tratamiento desde el primer momento que entras en la web. En el caso que tras la visita presencial con el especialista requieras de otro tipo de intervención o ésta requiera de una alteración en el proceso habitual, el paciente SIEMPRE será avisado antes de la intervención del coste final de la cirugía. Del mismo modo, en las cirugías con ingreso hospitalario, se incluye un seguro de complicaciones médicas que cubre posibles eventualidades producidas durante la cirugía y en los 30 días posteriores a la intervención.
+**Total Transparency**  
+All our operation prices are fixed and all-inclusive. No surprises and no final hidden costs. You will know the final price and what the treatment includes from the first moment you enter the website. If, after the in-person visit with the specialist, another type of intervention is required, or it requires an alteration in the usual process, the patient will ALWAYS be informed before the surgery of the final cost. Similarly, for surgeries with hospital admission, a medical complications insurance is included that covers possible eventualities during surgery and in the 30 days following the intervention.
 
-Equipo Médico de Calidad
-Contamos con una cartera propia de cirujanos nacionales escogidos por su experiencia (más de 15 años de media en el ejercicio médico), profesionalidad y reputación a nivel estatal.
+**Quality Medical Team**  
+We have our own portfolio of national surgeons chosen for their experience (over 15 years on average in medical practice), professionalism, and state-wide reputation.
 
-Clínicas Privadas de Primera Línea
-Atendemos en las Mejores Clínicas de Lima.
+**Top Private Clinics**  
+We attend the best clinics in Lima.
 
-Atención Inmediata y Personalizada
-Proporcionamos una atención personalizada, inmediata y de calidad gracias a la labor de nuestros especialistas sanitarios del departamento de atención al paciente, quienes tramitarán todas las gestiones administrativas y solucionarán todas tus dudas para que tan solo te preocupes de tu salud. Con Cirugía 24Horas, no te sentirás solo en ningún punto del proceso.
+**Immediate and Personalized Attention**  
+We provide personalized, immediate, and quality care thanks to the work of our patient care specialists, who will handle all administrative procedures and solve all your doubts so you only worry about your health. With Cirugía 24Hours, you will not feel alone at any point in the process.
 
-Seguridad y Confianza
-En Cirugía24horas, firmamos un contrato de prestación de servicios médicos con nuestros pacientes, siendo los únicos que incluimos un seguro de complicaciones médicas en los procesos quirúrgicos sin coste adicional.
+**Safety and Trust**  
+At Cirugía24horas, we sign a contract for the provision of medical services with our patients, being the only ones to include medical complications insurance in surgical processes at no additional cost.
 
-Además, proporcionamos un certificado de calidad de productos implantados en prótesis, y contamos con certificación de seguridad y encriptación de información en la plataforma web.
+In addition, we provide a quality certificate for implanted prosthesis products and have security and information encryption certification on the web platform.
 
-Comodidad
-Todas las intervenciones con estancia hospitalaria incluyen siempre habitación individual con cama de acompañante. Además, en las cirugías con ingreso hospitalario, enviamos un vehículo a tu casa para recogerte el día del ingreso y te llevamos a casa el día del alta, para que no tengas que preocuparte del vehículo durante tu estancia, todo ello sin coste adicional.
+**Comfort**  
+All interventions with hospital stays always include a single room with an accompanying bed. Moreover, for surgeries with hospital admission, we send a vehicle to your home to pick you up on the day of admission and take you home on the day of discharge, so you don’t have to worry about the vehicle during your stay, all at no additional cost.
 
-En Cirugía 24Horas no pagas nada hasta que tú, junto a tu médico, decidas llevar a cabo la cirugía!
-De acuerdo a las Condiciones Generales del procedimiento de Cirugia24horas para acceder, tras la consulta gratuita y sin compromiso con su especialista, a la prestación quirúrgica el paciente deberá haber abonado previamente el importe correspondiente a la cirugía.
+At Cirugía 24Hours, you don't pay anything until you, along with your doctor, decide to carry out the surgery!  
+According to the General Conditions of the Cirugia24horas procedure, to access the surgical service after the free and no-obligation consultation with the specialist, the patient must have previously paid the amount corresponding to the surgery.
 
-Dicho importe es el que viene expresado en el Bono de Consulta Gratuita como RESERVA DE PRECIO GARANTIZADO emitido a tu favor para dicha intervención en el momento en que te registraste en nuestra página web para solicitar la consulta con el especialista.
+This amount is stated in the Free Consultation Voucher as GUARANTEED PRICE RESERVATION issued in your favor for the intervention at the time you registered on our website to request the consultation with the specialist.
 
-En el caso de que tengas contratada una póliza de reembolso de gastos médicos, puedes solucionar tu problema con nosotros y después llevar la factura a tu compañía de seguros sin ningún problema.
+If you have a medical expense reimbursement policy, you can solve your problem with us and then take the invoice to your insurance company without any problem.
 
-Fundadaen2013,Cirugía24Horasesunacompañíadeserviciosmédicosprivadosaltamenteespecializadaenofrecerserviciosquirúrgicoscompletos,sinesperas,sinsorpresasyacostereducido.Estareduccióndecostesesposiblegraciasalgranvolumendeintervencionesquetramitamosdiariamente,permitiéndonosofrecerserviciosquirúrgicosdelamáximacalidadaunprecioajustadoennumerosasespecialidades.
-Atención las 24 horas
-Disponibilidad total: Servicio de Atención las 24 Horas, todos los días.
+**Founded in 2013, Cirugía24Horas is a highly specialized private medical services company offering comprehensive surgical services with no waiting, no surprises, and reduced costs. This cost reduction is possible thanks to the high volume of interventions we handle daily, allowing us to offer high-quality surgical services at an adjusted price in numerous specialties.**
 
-Operate sin demoras ni esperas
-Consulta de valoración quirúrgica y procedimiento sin esperas.
+**24-hour attention**  
+Total availability: 24-hour service, every day.
 
-Sin cuotas previas
-En Cirugía 24 Horas no pagas nada hasta que tú, junto a tu médico, decidas llevar a cabo la cirugía.
+**Operate without delays or waits**  
+Consultation and surgical procedure without waiting.
 
-Atención personalizada
-Como paciente, tienes un asesor personal que te ayuda y soluciona cualquier duda del proceso.
+**No previous fees**  
+At Cirugía 24 Hours, you don't pay anything until you, along with your doctor, decide to carry out the surgery.
 
-Las mejores clínicas
-Habitación compartida o privada, la mejor atención y comodidad
+**Personalized attention**  
+As a patient, you have a personal advisor who helps and solves any doubts about the process.
 
-Servicio de traslado
-Brindamos servicio de traslado cercano o lejos.
+**The best clinics**  
+Shared or private room, the best attention, and comfort.
 
-Atención post quirurgica
-El precio final es el que aparece en la página web, sin sorpresas finales.
+**Transport service**  
+We provide transport service nearby or far away.
+
+**Post-surgical care**  
+The final price is the one that appears on the website, with no final surprises.
